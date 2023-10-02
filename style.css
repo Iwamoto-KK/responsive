@@ -11,11 +11,12 @@ header {
 
 main {
   display: flex;
-  margin: 50px;
+  width: 960px;
+  margin: 50px auto;
 }
 
 .topic-box{
-  width: 960px;
+  width: 300px;
   padding: 10px;
   position: relative; /* 相対位置指定 */
   background-color: #EEEEEE;
